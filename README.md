@@ -33,7 +33,7 @@ Talk to me about
 - :snake: **Python and Django**
 - :whale: DevOps practices and services, such as **Docker and Kubernetes**
 - :bomb: another set of technologies, namely **GraphQL with Apollo and Relay, Netlify and Gatsby**
-- :seedling: new Node.js frameworks, such as **Nest.js**
+- :seedling: Node.js frameworks, such as **Nest.js**
 
 ![Luis' github stats](https://github-readme-stats.vercel.app/api?username=13luismb&hide=["issues"]&show_icons=true)
 
