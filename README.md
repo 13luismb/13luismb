@@ -20,6 +20,7 @@ Talk to me about
 - Front-end development using **React.js, Redux.js, Angular, and HTML with JavaScript and CSS**
 - Backend development using **Node.js, Express.js, Java EE, Java Spring**
 - Designing **Relational Database Management Systems**
+- Relational and non-relational database management using **PostgreSQL, MySQL and MongoDB**
 - Robust full-stack system design implementation
 - Mobile application development using **Ionic 5 w/ Angular or React.js, React Native, Flutter with Dart**
 - Solving Data structure and algorithm questions in **Java and JavaScript**
