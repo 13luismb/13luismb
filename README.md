@@ -18,7 +18,7 @@
 Talk to me about
 
 - Front-end development using **React.js, Redux.js, Angular, and HTML with JavaScript and CSS**
-- Backend development using **Node.js, Express.js, Java EE, Java Spring**
+- Backend development using **Node.js, Express.js, Java EE, Java Spring, Firebase**
 - Designing **Relational Database Management Systems**
 - Relational and non-relational database management using **PostgreSQL, MySQL and MongoDB**
 - Robust full-stack system design implementation
@@ -32,6 +32,8 @@ Talk to me about
 - :sparkler: desktop application development using **Electron**
 - :snake: **Python and Django**
 - :whale: DevOps practices and services, such as **Docker and Kubernetes**
+- :bomb: another set of technologies, namely **GraphQL with Apollo and Relay, Netlify and Gatsby**
+- :seedling: new Node.js frameworks, such as **Nest.js**
 
 ![Luis' github stats](https://github-readme-stats.vercel.app/api?username=13luismb&hide=["issues"]&show_icons=true)
 
