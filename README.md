@@ -24,14 +24,15 @@ Talk to me about
 - Robust full-stack system design implementation
 - Mobile application development using **Ionic 5 w/ Angular or React.js, React Native, Flutter with Dart**
 - Solving Data structure and algorithm questions in **Java and JavaScript**
+- DevOps practices and services, such as **Docker and Kubernetes**
+- creating scalable cloud architecture using **Amazon Web Services**.
+- Application deployment using **Heroku**
 - Application version control using **Git**
 
 ## Right now I'm learning... 🤔
 
-- 💬 about creating scalable cloud architecture using **AWS Cloud and Heroku**.
 - :sparkler: desktop application development using **Electron**
 - :snake: **Python and Django**
-- :whale: DevOps practices and services, such as **Docker and Kubernetes**
 - :bomb: another set of technologies, namely **GraphQL with Apollo and Relay, Netlify and Gatsby**
 - :seedling: Node.js frameworks, such as **Nest.js**
 
