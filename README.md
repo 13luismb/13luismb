@@ -9,7 +9,7 @@
 
 ## 🎯 Currently working as
 
-- Software Engineer and Lead Backend Developer at [Waku Casa de Software C.A.](https://wakusoftware.com/)
+- Software Engineer and Lead Frontend Developer at [Reign](https://www.reign.cl/)
 - Freelance Full-Stack and Mobile developer at [Upwork](https://www.upwork.com/freelancers/~0121f91f948b9accf3)
 - Mobile Development Professor at [Universidad Rafael Urdaneta](http://uru.edu/)
 
